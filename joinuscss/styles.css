@@ -1,0 +1,219 @@
+body{
+
+margin:0;
+padding:0;
+background-color: #FF3CAC;
+background-image: linear-gradient(225deg, #FF3CAC 0%, #784BA0 50%, #2B86C5 100%);
+
+
+
+}
+
+.nav-link{
+
+margin-left:3.5rem;
+font-size: 20px;
+
+color:#ffff;
+}
+
+.nav-link:hover{
+
+
+text-align: center;
+color:red;
+
+
+
+
+}
+.navbar{
+
+
+  width:100%;
+
+
+background-color:#ff9292;
+}
+#footer{
+  padding: 10px 20px;
+  background-color: #edeef7;
+  width:100%;
+
+  text-align: center;
+}
+
+div.dropdown-menu a{
+
+  font-size:1.5rem;
+background-color:#ffe8e8;
+color:#845ec2;
+}
+
+div.nav-link h6:hover{
+
+
+width:20px;
+height:20px;
+
+}
+.dropdown-item{
+
+font-size:3rem
+}
+.joinus-button{
+
+margin-left:10px;
+
+
+}
+
+.listgroup{
+
+  background-color: #FF3CAC;
+  background-image: linear-gradient(225deg, #FF3CAC 0%, #784BA0 50%, #2B86C5 100%);
+
+
+
+}
+input.form-control{
+
+width:50%;
+margin-left:2.5rem;
+border-radius: none;
+}
+.row{
+
+padding:2% 15%;
+width:100%;
+
+}
+input.form-check-input.me-1 {
+
+
+width:30px;
+height:30px;
+
+margin-right:20px;
+
+}
+.input-group{
+
+width:50%;
+
+
+}
+
+
+.col-sm{
+
+  background-color: #FF3CAC;
+  background-image: linear-gradient(225deg, #FF3CAC 0%, #784BA0 50%, #2B86C5 100%);
+
+margin-right:5.5rem;
+
+
+}
+
+h5{
+
+width:150px;
+color:Yellow;
+
+}
+h3{
+
+color:yellow;
+margin-left:20px;
+
+}
+label.list-group-item-m-1{
+padding-top:20px;
+
+border:2px solid black;
+background-color: #FF3CAC;
+background-image: linear-gradient(225deg, #FF3CAC 0%, #784BA0 50%, #2B86C5 100%);
+
+}
+
+input.form-check-input.me-1{
+
+  border:2px solid black;
+  background-color: #FF3CAC;
+  background-image: linear-gradient(225deg, #FF3CAC 0%, #784BA0 50%, #2B86C5 100%);
+
+
+}
+div.list-group{
+
+
+padding-top:100px;
+
+
+}
+.joinform{
+
+padding-top:100px;
+
+
+}
+.btn-summit{
+
+
+  margin-bottom:1.5rem;
+
+}
+
+.column-2{
+
+background-image:url("https://images.unsplash.com/photo-1598267416824-5907946a3810?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjE4fHxneW18ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60.jpg");
+
+background-size:cover;
+background-repeat: no-repeat;
+
+}
+h4{
+
+color:yellow;
+margin-top:50px;
+
+}
+div.col-sm ul{
+
+
+margin-top:100px;
+
+}
+
+
+div.col-sm li{
+
+margin-left:50px;
+font-size:16px;
+
+
+}
+.li::marker{
+
+
+height:200px;
+width:200px;
+
+}
+
+
+div.offcanvasRightLabel h1{
+
+text-align: center;
+color:red;
+
+}
+div.offcanvas-body p{
+
+
+color:blue;
+font-size:2.1rem;
+font-family: 'Noto Serif JP', serif;
+
+
+}

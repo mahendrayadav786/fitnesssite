@@ -1,0 +1,133 @@
+body{
+text-align: center;
+margin:0;
+padding:0;
+background-image: linear-gradient( 67.2deg,  rgba(37,208,199,1) -7.5%, rgba(165,90,240,1) 62.7% );
+}
+
+.joinus-button{
+
+margin:10px;
+}
+.container{
+
+
+text-align: center;
+
+
+width:800px;
+
+
+}
+.nav-link{
+
+margin-left:3.5rem;
+font-size: 20px;
+
+color:#ffff;
+}
+
+.nav-link:hover{
+
+
+text-align: center;
+color:red;
+
+
+
+
+}
+.navbar{
+
+
+  width:100%;
+
+
+background-color:#ff9292;
+}
+#footer{
+  padding: 10px 20px;
+  background-color: #edeef7;
+  width:100%;
+
+  text-align: center;
+}
+
+div.dropdown-menu a{
+
+  font-size:1.5rem;
+background-color:#ffe8e8;
+color:#845ec2;
+}
+ h1{
+
+text-align: center;
+color:red;
+
+}
+div.offcanvas-body p{
+
+
+color:blue;
+font-size:2.1rem;
+font-family: 'Noto Serif JP', serif;
+
+
+}
+div.nav-link h6:hover{
+
+
+width:20px;
+height:20px;
+
+}
+.dropdown-item{
+
+font-size:3rem
+}
+img{
+
+width:100%;
+
+
+
+
+
+
+
+}
+
+
+
+h1{
+
+text-align: center;
+color:red;
+
+}
+div.offcanvas-body p{
+
+
+color:blue;
+font-size:2.1rem;
+font-family: 'Noto Serif JP', serif;
+
+
+}
+
+
+div.offcanvasRightLabel h1{
+
+text-align: center;
+color:red;
+
+}
+div.offcanvas-body p{
+
+
+color:blue;
+font-size:2.1rem;
+font-family: 'Noto Serif JP', serif;
+
+
+}

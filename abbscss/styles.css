@@ -1,0 +1,72 @@
+body{
+text-align: center;
+margin:0;
+padding:0;
+background-image: radial-gradient( circle farthest-corner at 10% 20%,  rgba(186,190,245,1) 0%, rgba(192,192,245,1) 33.1%, rgba(218,203,246,1) 90% );
+
+}
+
+.joinus-button{
+
+margin:10px;
+}
+
+.container{
+
+margin:0 auto 0;
+
+background-color:#dbf6e9;
+text-align: center;
+width:800px;
+padding:2.4rem;
+
+}
+
+.nav-link{
+
+margin-left:3.5rem;
+font-size: 20px;
+
+color:#ffff;
+}
+.navbar{
+
+
+  background-color:#ff9292;
+}
+.social-icon: hover{
+ transform: scale(1.5);
+}
+
+#footer{
+  padding: 20px 20px;
+  background-color: #edeef7;
+  width:100%;
+height:500px;
+  text-align: center;
+
+
+}
+
+.nav-link:hover{
+
+
+text-align: center;
+color:red;
+}
+
+h1{
+
+text-align: center;
+color:red;
+
+}
+div.offcanvas-body p{
+
+
+color:blue;
+font-size:2.1rem;
+font-family: 'Noto Serif JP', serif;
+
+
+}

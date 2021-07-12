@@ -1,0 +1,86 @@
+body{
+
+margin:0;
+padding:0;
+background: #114357;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #F29492, #114357);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #F29492, #114357); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
+
+}
+
+.nav-link{
+
+margin-left:3.5rem;
+font-size: 20px;
+
+color:#ffff;
+}
+
+.nav-link:hover{
+
+
+text-align: center;
+color:red;
+
+
+
+
+}
+.navbar{
+
+
+  width:100%;
+
+
+background-color:#ff9292;
+}
+#footer{
+  padding: 10px 20px;
+  background-color: #edeef7;
+  width:100%;
+
+  text-align: center;
+}
+
+div.dropdown-menu a{
+
+  font-size:1.5rem;
+background-color:#ffe8e8;
+color:#845ec2;
+}
+
+div.nav-link h6:hover{
+
+
+width:20px;
+height:20px;
+
+}
+.dropdown-item{
+
+font-size:3rem
+}
+.joinus-button {
+
+margin-left:10px;
+
+
+}
+
+.aboutus{
+
+
+  margin-left:10px;
+
+
+
+}
+
+.currency-button{
+float:right;
+
+
+
+}
